@@ -17,3 +17,6 @@
 + [B4: Experience with a Globally-Deployed Software Defined WAN](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41761.pdf)<br/>
 according to "related work" section in "TIME4: Time for SDN",SWAN suggests reserving unsed scratch capacity of 10-30% on every link results to fewer packet loss.
 B4 reduced bandwidth for some or all of flows during update
+
+### recently published papers
++ [TRUS: Towards the Real-Time Route Update Scheduling in SDN for Data Centers](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9058681)
