@@ -20,3 +20,6 @@ B4 reduced bandwidth for some or all of flows during update
 
 ### recently published papers
 + [TRUS: Towards the Real-Time Route Update Scheduling in SDN for Data Centers](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9058681)
+
+### similar works
++ A system architecture for time-sensitive heterogeneous wireless distributed software-defined networks -- 2019 Military Communications and Information Systems Conference (MilCIS)
