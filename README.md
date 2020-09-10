@@ -24,4 +24,6 @@ B4 reduced bandwidth for some or all of flows during update
 
 ### similar works
 + A system architecture for time-sensitive heterogeneous wireless distributed software-defined networks -- 2019 Military Communications and Information Systems Conference (MilCIS)
++ [Live Migration of an Entire Network (and its Hosts)](https://www.researchgate.net/profile/Jennifer_Rexford/publication/262275730_Live_migration_of_an_entire_network_and_its_hosts/links/558b0f7408aee99ca9ca3f23.pdf)
++ [Walk the Line: Consistent Network Updates with Bandwidth Guarantees](http://caesar.web.engr.illinois.edu/papers/hot18-ghorbani.pdf)
 
