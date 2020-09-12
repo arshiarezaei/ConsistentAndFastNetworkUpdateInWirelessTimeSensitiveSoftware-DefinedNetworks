@@ -1,10 +1,11 @@
 # Consistent And Fast Network Update In Wireless Time-Sensitive Software-Defined Networks
 
 ## selected papers for next meeting (6th of september)
-+ [Dynamic Scheduling of Network Updates](https://www.cs.jhu.edu/~xinjin/files/SIGCOMM14_Dionysus.pdf) 
++ [Dynamic Scheduling of Network Updates](https://www.cs.jhu.edu/~xinjin/files/SIGCOMM14_Dionysus.pdf), [slides](http://www.cs.jhu.edu/~xinjin/files/SIGCOMM14_Dionysus_slides.pptx)
 + [TIME4: Time for SDN](https://arxiv.org/pdf/1505.03421.pdf)
 
 ## selected papers for next meeting (15th of september)
++ [Dynamic Scheduling of Network Updates](https://www.cs.jhu.edu/~xinjin/files/SIGCOMM14_Dionysus.pdf), [slides](http://www.cs.jhu.edu/~xinjin/files/SIGCOMM14_Dionysus_slides.pptx)
 + [B4: Experience with a Globally-Deployed Software Defined WAN](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41761.pdf)
 
 
