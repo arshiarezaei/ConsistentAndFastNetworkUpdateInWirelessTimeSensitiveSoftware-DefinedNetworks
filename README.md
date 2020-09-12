@@ -4,6 +4,9 @@
 + [Dynamic Scheduling of Network Updates](https://www.cs.jhu.edu/~xinjin/files/SIGCOMM14_Dionysus.pdf) 
 + [TIME4: Time for SDN](https://arxiv.org/pdf/1505.03421.pdf)
 
+## selected papers for next meeting (15th of september)
++ [B4: Experience with a Globally-Deployed Software Defined WAN](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/41761.pdf)
+
 
 
 ## valuable papers 
