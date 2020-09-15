@@ -1,5 +1,6 @@
 # Consistent And Fast Network Update In Wireless Time-Sensitive Software-Defined Networks
 ## selected papers for next meeting (22th september)
+valuable recent papers will be added ASAP
 
 
 ## selected papers for next meeting (15th september)
