@@ -13,7 +13,7 @@
 ## valuable papers 
 + [Software-defined networking: A comprehensive survey](https://arxiv.org/pdf/1406.0440.pdf)
 + [A Survey on Software-Defined Network and OpenFlow: From Concept to Implementation](http://www.hit.bme.hu/~jakab/edu/litr/SDN/OpenFlow_Survey_06819788.pdf)
-### this papers use time for cordinating netwrok events and timed updates
+### these papers use time for cordinating netwrok events and timed updates
 + [TIME4: Time for SDN](https://arxiv.org/pdf/1505.03421.pdf)
 
 ### following papers should be studied
