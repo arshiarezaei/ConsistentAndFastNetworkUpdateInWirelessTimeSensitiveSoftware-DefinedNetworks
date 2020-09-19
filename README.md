@@ -1,6 +1,6 @@
 # Consistent And Fast Network Update In Wireless Time-Sensitive Software-Defined Networks
 ## selected papers for next meeting (22th september)
-valuable recent papers will be added ASAP
++ [Congestion-Free Rerouting of Multiple Flows in Timed SDNs](http://eprints.cs.univie.ac.at/6018/13/2019-jsac.pdf) 
 
 
 ## selected papers for next meeting (15th september)
