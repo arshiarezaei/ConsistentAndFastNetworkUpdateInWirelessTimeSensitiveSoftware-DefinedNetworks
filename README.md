@@ -36,3 +36,17 @@ B4 reduced bandwidth for some or all of flows during update
 + ~~[Live Migration of an Entire Network (and its Hosts)](https://www.researchgate.net/profile/Jennifer_Rexford/publication/262275730_Live_migration_of_an_entire_network_and_its_hosts/links/558b0f7408aee99ca9ca3f23.pdf)~~
 + ~~[Walk the Line: Consistent Network Updates with Bandwidth Guarantees](http://caesar.web.engr.illinois.edu/papers/hot18-ghorbani.pdf)~~
 
+### Papers for review
+these papers cited "Time4"
++ [Software Defined Networking for Wireless Sensor Networks:
+A Survey ](http://eprints.mdx.ac.uk/21875/1/SciencePG_AWCN2017.pdf)
++ [An Enhanced Reconfiguration for Deterministic
+Transmission in Time-Triggered Networks](https://www.researchgate.net/profile/Zonghui_Li/publication/332699326_An_Enhanced_Reconfiguration_for_Deterministic_Transmission_in_Time-Triggered_Networks/links/5d888357458515cbd1b3ca41/An-Enhanced-Reconfiguration-for-Deterministic-Transmission-in-Time-Triggered-Networks.pdf)
++ [WhiteRabbit: Scalable Software-Defined
+Network Data-Plane Verification
+Method Through Time Scheduling](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8766827)
++ [NETWORK UPDATE AND SERVICE CHAIN
+MANAGEMENT IN SOFTWARE DEFINED
+NETWORKS](https://scholarshare.temple.edu/bitstream/handle/20.500.12613/283/Chen_temple_0225E_14150.pdf?sequence=1&isAllowed=y)
++ [Enhancing Network Path Restoration With Software Defined Networking](http://www.ripublication.com/ijaer19/ijaerv14n8_21.pdf) 
++ [Dynamic Network Slicing for the Tactile Internet](http://pure.tudelft.nl/ws/portalfiles/portal/71155645/ICCPS2020.pdf)
