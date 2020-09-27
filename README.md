@@ -1,4 +1,12 @@
 # Consistent And Fast Network Update In Wireless Time-Sensitive Software-Defined Networks
+
+
+## selected papers for next meeting (29th september)
++ [Congestion-Free Rerouting of Multiple Flows in Timed SDNs](http://eprints.cs.univie.ac.at/6018/13/2019-jsac.pdf) 
++ [A Survey of Machine Learning Techniques Applied to Software Defined Networking (SDN): Research Issues and Challenges](https://www.researchgate.net/profile/Zouhair_Chiba2/post/Machine_learning_in_SDN/attachment/5ccca2a6cfe4a7968d9c502e/AS%3A754569743200256%401556914854775/download/A+Survey+of+Machine+Learning+Techniques+Applied+to+Software+Defined+Networking+%28SDN%29-+Research+Issues+and+Challenges-2018.pdf)
++ [1588 IEEE Standard for a Precision Clock Synchronization
+Protocol for Networked Measurement and Control Systems](http://read.pudn.com/downloads174/sourcecode/others/807566/IEEE%201588(v2)/IEEE1588V2(2008).pdf)
+
 ## selected papers for next meeting (22th september)
 + [Congestion-Free Rerouting of Multiple Flows in Timed SDNs](http://eprints.cs.univie.ac.at/6018/13/2019-jsac.pdf) 
 + [A Survey of Machine Learning Techniques Applied to Software Defined Networking (SDN): Research Issues and Challenges](https://www.researchgate.net/profile/Zouhair_Chiba2/post/Machine_learning_in_SDN/attachment/5ccca2a6cfe4a7968d9c502e/AS%3A754569743200256%401556914854775/download/A+Survey+of+Machine+Learning+Techniques+Applied+to+Software+Defined+Networking+%28SDN%29-+Research+Issues+and+Challenges-2018.pdf)
