@@ -63,7 +63,14 @@ MANAGEMENT IN SOFTWARE DEFINED
 NETWORKS](https://scholarshare.temple.edu/bitstream/handle/20.500.12613/283/Chen_temple_0225E_14150.pdf?sequence=1&isAllowed=y)
 + [Enhancing Network Path Restoration With Software Defined Networking](http://www.ripublication.com/ijaer19/ijaerv14n8_21.pdf) 
 + [Dynamic Network Slicing for the Tactile Internet](http://pure.tudelft.nl/ws/portalfiles/portal/71155645/ICCPS2020.pdf)
+#### security
 + [Transiently Secure Network Updates](https://eprints.cs.univie.ac.at/5553/1/21-Transiently%20secure.pdf)
+#### performance
++ [Dynamic pricing and traffic engineering for timely inter-datacenter transfers](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/pretium_sigcomm16.pdf)
+#### dependability
++ [Traffic Engineering with Forward Fault Correction](https://www.researchgate.net/profile/Hongqiang_Liu2/publication/266659975_Traffic_Engineering_with_Forward_Fault_Correction/links/549fa0600cf267bdb8fdbfbb.pdf),[appendix](https://www.microsoft.com/en-us/research/uploads/prod/2014/08/Appendix-of-Paper.pdf)
++ [zupdate: updating data center networks with zero loss]()
++ [We’ve got you covered:Failure recovery with backup tunnels in traffic engineering]()
 ## clock synchronization 
 + [1588 IEEE Standard for a Precision Clock Synchronization
 Protocol for Networked Measurement and Control Systems](http://read.pudn.com/downloads174/sourcecode/others/807566/IEEE%201588(v2)/IEEE1588V2(2008).pdf)
