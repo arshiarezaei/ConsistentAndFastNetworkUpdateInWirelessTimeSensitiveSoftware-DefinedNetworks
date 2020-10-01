@@ -76,3 +76,4 @@ NETWORKS](https://scholarshare.temple.edu/bitstream/handle/20.500.12613/283/Chen
 ## clock synchronization 
 + [1588 IEEE Standard for a Precision Clock Synchronization
 Protocol for Networked Measurement and Control Systems](http://read.pudn.com/downloads174/sourcecode/others/807566/IEEE%201588(v2)/IEEE1588V2(2008).pdf)
++ [Network Time Protocol Version 4: Protocol and Algorithms Specification](https://tools.ietf.org/pdf/rfc5905.pdf)
