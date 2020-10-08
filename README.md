@@ -5,7 +5,9 @@
   
   ### [OSDI 2020](https://www.usenix.org/conference/osdi20/accepted-papers)
   + [Sundial: Fault-tolerant Clock-synchronization for Datacenters](https://www.usenix.org/conference/osdi20/presentation/li-yuliang)
-  
+## selected papers for next meeting (13 Oct)
++ [REVERSEPTP: A clock synchronization scheme for software-defined networks](https://onlinelibrary.wiley.com/doi/epdf/10.1002/nem.1942)
+ + [ReversePTP: A Software Defined Networking Approach to Clock Synchronization](https://dl.acm.org/doi/pdf/10.1145/2620728.2620764)
 ## selected papers for next meeting (29th september)
 + [Congestion-Free Rerouting of Multiple Flows in Timed SDNs](http://eprints.cs.univie.ac.at/6018/13/2019-jsac.pdf) 
 + [A Survey of Machine Learning Techniques Applied to Software Defined Networking (SDN): Research Issues and Challenges](https://www.researchgate.net/profile/Zouhair_Chiba2/post/Machine_learning_in_SDN/attachment/5ccca2a6cfe4a7968d9c502e/AS%3A754569743200256%401556914854775/download/A+Survey+of+Machine+Learning+Techniques+Applied+to+Software+Defined+Networking+%28SDN%29-+Research+Issues+and+Challenges-2018.pdf)
@@ -77,3 +79,5 @@ NETWORKS](https://scholarshare.temple.edu/bitstream/handle/20.500.12613/283/Chen
 + [1588 IEEE Standard for a Precision Clock Synchronization
 Protocol for Networked Measurement and Control Systems](http://read.pudn.com/downloads174/sourcecode/others/807566/IEEE%201588(v2)/IEEE1588V2(2008).pdf)
 + [Network Time Protocol Version 4: Protocol and Algorithms Specification](https://tools.ietf.org/pdf/rfc5905.pdf)
++ [REVERSEPTP: A clock synchronization scheme for software-defined networks](https://onlinelibrary.wiley.com/doi/epdf/10.1002/nem.1942)
+ + [ReversePTP: A Software Defined Networking Approach to Clock Synchronization](https://dl.acm.org/doi/pdf/10.1145/2620728.2620764)
