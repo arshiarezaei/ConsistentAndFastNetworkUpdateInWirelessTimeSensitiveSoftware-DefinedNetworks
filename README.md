@@ -81,3 +81,6 @@ Protocol for Networked Measurement and Control Systems](http://read.pudn.com/dow
 + [Network Time Protocol Version 4: Protocol and Algorithms Specification](https://tools.ietf.org/pdf/rfc5905.pdf)
 + [REVERSEPTP: A clock synchronization scheme for software-defined networks](https://onlinelibrary.wiley.com/doi/epdf/10.1002/nem.1942)
  + [ReversePTP: A Software Defined Networking Approach to Clock Synchronization](https://dl.acm.org/doi/pdf/10.1145/2620728.2620764)
+ 
+ #### Game Theory
+ + [algorithmic game theory](https://www.cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf)
