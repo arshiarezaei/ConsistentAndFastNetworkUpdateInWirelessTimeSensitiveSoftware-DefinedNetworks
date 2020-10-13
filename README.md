@@ -1,5 +1,6 @@
 # Consistent And Fast Network Update In Wireless Time-Sensitive Software-Defined Networks
-
+## Recent Publications 
++ [Method and apparatus for processing packets in a network device](https://patentimages.storage.googleapis.com/e3/04/bf/36ff8d37992e1f/US10764410.pdf), Applicant  : Marvell Israel ( M.I.S.L ) Ltd
 ## Recent conferences 
   ### [NSDI 2020](https://www.usenix.org/conference/nsdi20/accepted-papers)
   
