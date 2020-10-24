@@ -8,6 +8,7 @@
   + [Sundial: Fault-tolerant Clock-synchronization for Datacenters](https://www.usenix.org/conference/osdi20/presentation/li-yuliang)
 ## selected papers for next meeting (27 Oct)
 + [Internet Time Synchronization: the Network Time Protocol](https://www.eecis.udel.edu/~mills/database/papers/trans.pdf)
++ [Computer Network Time Synchronization: the Network Time Protocol](https://www.eecis.udel.edu/~mills/database/brief/seminar/ntp.pdf)
 ## selected papers for next meeting (13 Oct)
 + [REVERSEPTP: A clock synchronization scheme for software-defined networks](https://onlinelibrary.wiley.com/doi/epdf/10.1002/nem.1942)
  + [ReversePTP: A Software Defined Networking Approach to Clock Synchronization](https://dl.acm.org/doi/pdf/10.1145/2620728.2620764)
